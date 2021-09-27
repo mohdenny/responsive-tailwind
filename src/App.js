@@ -1,24 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Fragment } from 'react';
+import './assets/styles/tailwind.css';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Fragment> 
+      <div id="hero" className="bg-red-500 h-screen border">
+        <img id="hero-image" className="bg-hero-image bg-no-repeat object-fill h-full border"/>
+          Hero
+      </div>
+      <div id="maincontent" className="container mx-auto">
+        <div id="video" className="bg-gray-500 h-96 border"> 
+          Video
+        </div>
+      </div>
+    </Fragment>
   );
 }
 
