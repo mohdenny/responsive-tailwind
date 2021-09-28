@@ -17798,7 +17798,7 @@ video {
 }
 
 .bg-hero-image {
-  background-image: url('../images/heros/vector.png');
+  background-image: url('../images/heros/pattern_hero.png');
 }
 
 .from-transparent {
@@ -49372,7 +49372,7 @@ video {
   }
 
   .sm\:bg-hero-image {
-    background-image: url('../images/heros/vector.png');
+    background-image: url('../images/heros/pattern_hero.png');
   }
 
   .sm\:from-transparent {
@@ -80594,7 +80594,7 @@ video {
   }
 
   .md\:bg-hero-image {
-    background-image: url('../images/heros/vector.png');
+    background-image: url('../images/heros/pattern_hero.png');
   }
 
   .md\:from-transparent {
@@ -111816,7 +111816,7 @@ video {
   }
 
   .lg\:bg-hero-image {
-    background-image: url('../images/heros/vector.png');
+    background-image: url('../images/heros/pattern_hero.png');
   }
 
   .lg\:from-transparent {
@@ -143038,7 +143038,7 @@ video {
   }
 
   .xl\:bg-hero-image {
-    background-image: url('../images/heros/vector.png');
+    background-image: url('../images/heros/pattern_hero.png');
   }
 
   .xl\:from-transparent {
@@ -174260,7 +174260,7 @@ video {
   }
 
   .\32xl\:bg-hero-image {
-    background-image: url('../images/heros/vector.png');
+    background-image: url('../images/heros/pattern_hero.png');
   }
 
   .\32xl\:from-transparent {
